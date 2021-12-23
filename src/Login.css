@@ -1,0 +1,52 @@
+.login {
+    display: grid;
+    place-items: center;
+    height: 100vh;
+    
+    background-image: url('./Custom\ Size\ –\ 1.png');
+    background-repeat: no-repeat;
+    overflow: hidden;
+    background-size: cover;
+}
+
+.login__container{
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.login__container > img {
+    object-fit: contain;
+    height: 200px;
+    border-radius: 20px;
+    width: 100%;
+    background-color: whitesmoke !important;
+
+    
+}
+.test {
+    border-radius: 20px !important;
+    top: -190px;
+    background-color: #154CFF !important;
+    color: whitesmoke !important;
+    left: 12px;
+}
+.test:hover{
+    background-color: #2BB573 !important;
+}
+
+
+.mohamed{
+    background-color: #87CEEB !important;
+}
+.test1 {
+    border-radius: 20px !important;
+    top: -190px;
+    background-color: #154CFF !important;
+    color: whitesmoke !important;
+    left: 570px;
+}
+
+.test1:hover {
+    background-color: #FF4646 !important;
+    }
